@@ -7,14 +7,6 @@
 - 👯 I’m looking for friends
 - 🥅 2020 Goals: To find LOVE
 - ⚡ Fun fact: I love to play football and video-games
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -42,10 +34,3 @@
 <br>
 <h3 align="center">✌️ THIS IS THE END ✌️</h3>
 <br>
-
----
-
-[website]: https://napegaming.eu
-[discord]: https://discord.gg/nUPXFv8Ja3 
-[youtube]: https://www.youtube.com/channel/UC7lanfUU40eOl4qbtYKTOVw
-[instagram]: https://www.instagram.com/nape_gaming/
