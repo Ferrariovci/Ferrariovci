@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for friends
-- 🥅 2020 Goals: To find LOVE
+- 🥅 2022 Goals: To finish discord.js v14 bot
 - ⚡ Fun fact: I love to play football and video-games
 <br />
 
