@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for friends
 - 🥅 2022 Goals: To finish discord.js v14 bot
-- ⚡ Fun fact: I love to play football and video-games
+- ⚡ Fun fact: I love going outside
 <br />
 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_MX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
