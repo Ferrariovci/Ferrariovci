@@ -1,4 +1,4 @@
-### 🖖 Hi there, I'm Jakub - aka Jacob [NAPE][website] 🖖
+### 🖖 Hi there, I'm Jakub - aka Kobi🖖
 
 
 ## I'm a Teenager who is learning new things anywhere at any time!
@@ -10,7 +10,7 @@
 <br />
 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_MX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![CPU](https://img.shields.io/badge/AMD-Radeon_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 <br>
 
